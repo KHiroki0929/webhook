@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aba5b93a-2106-40ff-a789-00b992ff5a48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="akka" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="akka" type="f1a62948:ProjectNode" />
+                <item name="akka" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2JkauaPcQssjKL5nsGAwszs0PAu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AkkaServer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AkkaServer" />
+      <module name="akka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AkkaServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="akka" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="akka [file:/Users/kamide0929/Downloads/akka/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="akka-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="658248134" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba5b93a-2106-40ff-a789-00b992ff5a48" name="Default Changelist" comment="" />
+      <created>1672624757285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672624757285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="125" key="#Project_Structure" timestamp="1672625838595">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="125" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1672625838595" />
+    <state x="458" y="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1672627521590">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="458" y="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1672627521590" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1672628230838">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1672628230838" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1672628230837">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1672628230837" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1672628230837">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1672628230837" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1672628230838">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1672628230838" />
+    <state width="1398" height="227" key="GridCell.Tab.1.bottom" timestamp="1672627580667">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1672627580667" />
+    <state width="1398" height="227" key="GridCell.Tab.1.center" timestamp="1672627580667">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1672627580667" />
+    <state width="1398" height="227" key="GridCell.Tab.1.left" timestamp="1672627580666">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1672627580666" />
+    <state width="1398" height="227" key="GridCell.Tab.1.right" timestamp="1672627580667">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="227" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1672627580667" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1672627641919">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1672627641919" />
+  </component>
+</project>
